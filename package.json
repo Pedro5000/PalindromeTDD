@@ -1,5 +1,5 @@
 {
-  "name": "pedro5000-palindrome",
+  "name": "form-palindrome-detector",
   "version": "0.1.0",
   "description": "Palindrome detector",
   "main": "index.js",
